@@ -1,4 +1,4 @@
-package com.newfivefour;
+package cipetpet.android;
 
 import org.junit.Test;
 

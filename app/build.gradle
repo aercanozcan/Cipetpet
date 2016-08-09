@@ -2,10 +2,10 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 23
-    buildToolsVersion "23.0.2"
+    buildToolsVersion "23.0.3"
 
     defaultConfig {
-        applicationId "com.newfivefour"
+        applicationId "cipetpet.android"
         minSdkVersion 14
         targetSdkVersion 23
         versionCode 1
