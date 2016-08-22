@@ -12,7 +12,7 @@
         android:theme="@style/AppTheme">
         <!-- We register with hockeyapp.net: the tool that automatically pushes our builds to testers' devices.
              The placeholder value is defined in app/build.gradle -->
-        <meta-data android:name="net.hockeyapp.android.appIdentifier" android:value="${HOCKEYAPP_APP_ID}" />
+        <meta-data android:name="net.hockeyapp.android.appIdentifier" android:value="69ee41bee9f4483e843b40e5c8981daa" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
